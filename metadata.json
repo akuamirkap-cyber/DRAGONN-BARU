@@ -1,0 +1,6 @@
+{
+  "name": "Naga Zen - Ekspedisi Gua Bawah Tanah & Surga Awan",
+  "description": "Game terbang naga zen dengan lorong gua bawah tanah 5x panjang (~28.000px), langit-langit kubah rapi tanpa duri, turunan ngarai yang mulus, dan alam surga tanpa transisi hitam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
